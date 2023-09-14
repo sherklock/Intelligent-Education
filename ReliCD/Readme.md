@@ -22,7 +22,7 @@ lf vou find our methods or code helpful, please kindly cite the paper:
 
         @inproceedings{zhang2023ReliCD,
           title={ReliCD: A Reliable Cognitive Diagnosis Framework with Confidence Awareness},
-          author={Yunfei, Zhang and Chuan, Qin and Dazhong, Shen and Haiping, Ma and Le, Zhang and Xingyi, Zhang and Hengshu, Zhu},
+          author={Zhang, Yunfei and Qin, Chuan and Shen, Dazhong and Ma, Haiping and Zhang, Le and Zhang, Xingyi and Zhu, Hengshu},
           booktitle={Proceedings of the 23rd IEEE International Conference on Data Mining (ICDM-23)},
           year={2023}
          }
