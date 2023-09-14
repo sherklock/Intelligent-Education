@@ -19,9 +19,9 @@ python train.py
 
 ## Reference
 lf vou find our methods or code helpful, please kindly cite the paper:
-    @inproceedings{zhang2023ReliCD,
-      title={ReliCD: A Reliable Cognitive Diagnosis Framework with Confidence Awareness},
-      author={Yunfei Zhang, Chuan Qin, Dazhong Shen, Haiping Ma, Le Zhang, Xingyi Zhang, and Hengshu Zhu},
-      booktitle={Proceedings of the 23rd IEEE International Conference on Data Mining (ICDM-23)},
-      year={2023}
-    }
+        @inproceedings{zhang2023ReliCD,
+         title={ReliCD: A Reliable Cognitive Diagnosis Framework with Confidence Awareness},
+         author={Yunfei Zhang, Chuan Qin, Dazhong Shen, Haiping Ma, Le Zhang, Xingyi Zhang, and Hengshu Zhu},
+         booktitle={Proceedings of the 23rd IEEE International Conference on Data Mining (ICDM-23)},
+         year={2023}
+         }
