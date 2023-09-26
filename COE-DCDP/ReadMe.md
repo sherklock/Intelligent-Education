@@ -1,0 +1,2 @@
+### Cognitive Diagnosis-based Personalized Exercise Group Assembly via A Multi-Objective Evolutionary Algorithm
+Published in IEEE Transactions on Emerging Topics in Computational Intelligence'2022.lf you find our methods or code helpful, please kindly cite the paper.
