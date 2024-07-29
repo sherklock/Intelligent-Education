@@ -89,7 +89,7 @@ class TrainDataLoader(object):
         other_users = []
 
         for cluster, users in cluster_data.items():
-            if cluster == cur_cluster:
+            if cluster != cur_cluster:
                 other_users.extend(users)
                 break
         
@@ -126,7 +126,7 @@ class TrainDataLoader(object):
     def get_same_kn_exer_ids(self, matching_exer_ids, choose_exer_kn,cur_exer_id):
         matching_questions = []
         for exer_id in matching_exer_ids:
-            if exer_id != cur_exer_id and exer_id not in self.exer_knowledge_data:
+            if exer_id != cur_exer_id:
             # if exer_id not in self.exer_knowledge_data:
                 knowledge_codes = self.exer_knowledge_data.get(exer_id)
                 if knowledge_codes == choose_exer_kn:
